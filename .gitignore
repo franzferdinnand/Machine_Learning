@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea/
+.DS_Store
+.DS_Store/
+
 # C extensions
 *.so
 
@@ -76,7 +80,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+ML_unsorted/.ipynb_checkpoints
 
 # IPython
 profile_default/
